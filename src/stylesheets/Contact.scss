@@ -1,0 +1,24 @@
+.container {
+	display: flex;
+	flex-flow: row nowrap;
+	justify-content: space-between;
+	margin: 15px 5%;
+
+	&__p {
+			font-size: 25px;
+			line-height: 30px;
+			padding: 15px;
+			text-align: center;
+		}
+}
+
+.article {
+	flex: 2 1 60%;
+}
+
+.aside {
+	flex: 1 1 35%;
+	// margin-top: 25px;
+	// margin-right: 10px;
+
+}

@@ -1,0 +1,141 @@
+{
+	"news": [ 		
+								{ 
+									"source" : "NY1",
+									"title" : "Will the L Train Shutdown Create Real Deals in Williamsburg?",
+									"author" : "Jeanine Ramirez",
+									"url" : "http://www.ny1.com/nyc/all-boroughs/news/2018/03/27/cheaper-rents-maybe-coming-as-l-train-shutdown-nears",
+									"date" : "3-27-2018",
+									"keywords" : ["goodnews"]
+								},
+								{ 
+									"source" : "Vice",
+									"title" : "People Are Finally Starting to Accept the L Train Shutdown",
+									"author" : "John Surico",
+									"url" : "https://www.vice.com/en_us/article/qvwyxq/people-are-finally-starting-to-accept-the-l-train-shutdown",
+									"image-url": "https://video-images.vice.com/articles/5a6bbab6fac0955c23bf691c/lede/1517009995549-GettyImages-899310248.jpeg?crop=1xw%3A0.843644544431946xh%3Bcenter%2Ccenter&resize=1250%3A*",
+									"date" : "1-27-2018",
+									"keywords" : ["goodnews"]
+								},
+								{ 
+									"source" : "New York Business Journal",
+									"title" : "Fred Wilson Supports Pontoon Bridge Alternative to Solve L Train Closure",
+									"author" : "Anthony Noto",
+									"url" : "https://www.bizjournals.com/newyork/news/2018/02/26/fred-wilson-supports-pontoon-bridge-alternative.html",
+									"date" : "3-26-2018",
+									"keywords" : ["goodnews"]
+								},
+								{ 
+									"source" : "FREEWilliamsburg",
+									"title" : "The L Train Shutdown Is Getting Its Own Documentary",
+									"author" : "Robert Lanham",
+									"url" : "http://freewilliamsburg.com/l-train-shutdown-getting-documentary",
+									"date" : "3-3-2018",
+									"keywords" : ["goodnews"]
+								},
+								{ 
+									"source" : "LIC Post",
+									"title" : "Moving Walkway at Court Square Will Be Removed, Stairs Widened, for L Train Shutdown",
+									"author" : "Nathaly Pesantez",
+									"url" : "https://licpost.com/moving-walkway-court-square-will-removed-stairs-widened-l-train-shutdown",
+									"date" : "3-7-2018",
+									"keywords" : ["goodnews"]
+								},
+								{ 
+									"source" : "Wired",
+									"title" : "The Doomsday L Train Shutdown Just Might Save NYC",
+									"author" : "Alex Davies",
+									"url" : "https://www.wired.com/story/nyc-l-train-shutdown-plan/",
+									"date" : "2-23-2018",
+									"keywords" : ["goodnews"]
+								},	
+								{ 
+									"source" : "Vice",
+									"title" : "The L Train Shutdown Is Bad News for Queens, Too",
+									"author" : "John Surico",
+									"url" : "https://www.vice.com/en_us/article/9kzpxp/the-l-train-shutdown-is-bad-news-for-queens-too",
+									"date" : "3-13-2018",
+									"keywords" : ["badnews"]
+								},
+								{ 
+									"source" : "Village Voice",
+									"title" : "Are There Better L Train Shutdown Solutions? City Didn’t Study Them",
+									"author" : "Aaron Gordon",
+									"url" : "https://www.villagevoice.com/2018/02/27/city-didnt-study-more-radical-l-train-shutdown-solutions/",
+									"date" : "2-27-2018",
+									"keywords" : ["badnews"]
+								},
+								{ 
+									"source" : "Curbed New York",
+									"title" : "Village Residents Threaten Lawsuit Over L Train Shutdown Plan",
+									"author" : "Hannah Frishberg",
+									"url" : "https://ny.curbed.com/2018/3/2/17068008/greenwich-village-l-train-shutdown-lawsuit",
+									"date" : "3-2-2018",
+									"keywords" : ["badnews"]
+								},
+								{ 
+									"source" : "Vice",
+									"title" : "The L Train Shutdown Is Bad News for Queens, Too",
+									"author" : "John Surico",
+									"url" : "https://www.vice.com/en_us/article/9kzpxp/the-l-train-shutdown-is-bad-news-for-queens-too",
+									"date" : "3-13-2018",
+									"keywords" : ["badnews"]
+								},
+								{ 
+									"source" : "Village Voice",
+									"title" : "Are There Better L Train Shutdown Solutions? City Didn’t Study Them",
+									"author" : "Aaron Gordon",
+									"url" : "https://www.villagevoice.com/2018/02/27/city-didnt-study-more-radical-l-train-shutdown-solutions/",
+									"date" : "2-27-2018",
+									"keywords" : ["badnews"]
+								},
+								{ 
+									"source" : "Curbed New York",
+									"title" : "Village Residents Threaten Lawsuit Over L Train Shutdown Plan",
+									"author" : "Hannah Frishberg",
+									"url" : "https://ny.curbed.com/2018/3/2/17068008/greenwich-village-l-train-shutdown-lawsuit",
+									"date" : "3-2-2018",
+									"keywords" : ["badnews"]
+								},
+								{ 
+									"source" : "NBC News",
+									"title" : "Rents in Williamsburg, Greenpoint Continue to Drop Ahead of L Train Shutdown",
+									"author" : "",
+									"url" : "https://www.nbcnewyork.com/news/local/Rents-Williamsburg-Greenpoint-Drop-Ahead-of-L-Train-Shutdown-2019-478316953.html",
+									"date" : "3-29-2018",
+									"keywords" : ["goodnews"]
+								},
+								{ 
+									"source" : "StreetEasy",
+									"title" : "North Brooklyn Rents See Discounts Ahead of L Train Shutdown",
+									"author" : "Casey Roberts",
+									"url" : "https://streeteasy.com/blog/february-2018-market-reports/",
+									"date" : "3-29-2018",
+									"keywords" : ["goodnews"]
+								},
+								{ 
+									"source" : "New York Times",
+									"title" : "With L Train Shutdown a Year Off, Lower Manhattan Braces for Upheaval",
+									"author" : "Sarah Maslin Nir",
+									"url" : "https://www.nytimes.com/2018/04/03/nyregion/l-train-shutdown-14th-street.html",
+									"date" : "4-3-2018",
+									"keywords" : ["mehnews"]
+								},								
+								{ 
+									"source" : "BuzzBuzzNews",
+									"title" : "Is This the End of the Line for Rising North Brooklyn Rents?",
+									"author" : "Robert Clark",
+									"url" : "http://news.buzzbuzzhome.com/2018/03/end-line-rising-north-brooklyn-rents.html",
+									"date" : "3-30-2018",
+									"keywords" : ["goodnews"]
+								},
+								{ 
+									"source" : "NY City Lens",
+									"title" : "The First MTA Twitter Town Hall",
+									"author" : "Cecilia Butini",
+									"url" : "http://nycitylens.com/2018/03/first-mta-twitter-town-hall/",
+									"date" : "3-30-2018",
+									"keywords" : ["badnews"]
+								}
+				]
+}

@@ -1,0 +1,21 @@
+div#countdown h1 {
+  font-size: 40px;
+  margin-bottom: 18px;
+  margin-top: 30px; }
+
+div#countdown ul {
+  list-style-type: none;
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: center;
+  width: 70%;
+  margin: 0 auto; }
+  div#countdown ul li {
+    padding: 0 20px;
+    flex: 1; }
+    div#countdown ul li h2 {
+      font-size: 50px;
+      color: tomato;
+      margin-top: 15px; }
+    div#countdown ul li h3 {
+      font-size: 35px; }

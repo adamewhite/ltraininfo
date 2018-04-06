@@ -1,0 +1,68 @@
+.section {
+  width: 80%;
+  margin: 0 auto; }
+  .section__heading {
+    font-size: 40px;
+    margin-bottom: 20px;
+    color: tomato; }
+    .section__heading--no-margin-top {
+      margin-top: 10px; }
+  .section__subheading {
+    font-family: 'FolioLightItalic';
+    font-size: 30px;
+    margin-top: 25px;
+    display: inline; }
+  .section__p {
+    font-size: 25px;
+    line-height: 32px;
+    margin: 15px 0; }
+  .section__image {
+    width: 75%;
+    display: block;
+    margin: 30px auto;
+    border: 2px solid black; }
+  .section__a {
+    text-decoration: none;
+    color: black;
+    border-bottom: 2px solid black;
+    transition: .3s;
+    cursor: pointer; }
+    .section__a:hover {
+      color: tomato;
+      border-bottom: 2px solid tomato; }
+
+.jump__list {
+  display: flex;
+  flex-flow: row nowrap;
+  text-decoration: none;
+  justify-content: space-between;
+  margin-bottom: 25px; }
+
+.jump__item {
+  flex: 1 1 10%;
+  display: flex;
+  justify-content: center; }
+
+.jump__title {
+  display: inline-block;
+  font-size: 20px;
+  padding: 10px;
+  border: 1px solid black;
+  box-shadow: 5px 5px 5px black;
+  cursor: pointer; }
+  .jump__title:hover {
+    background-color: tomato;
+    color: white; }
+  .jump__title:focus, .jump__title:active {
+    transform: translate(2px, 2px);
+    box-shadow: 3px 3px 3px black; }
+
+.image__container {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-around; }
+
+.image--14th, .image--brooklyn {
+  width: 35%;
+  display: block;
+  height: 40%; }

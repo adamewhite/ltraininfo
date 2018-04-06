@@ -1,0 +1,18 @@
+.footer {
+  width: 100%;
+  margin-top: 70px;
+  border-top: 2px solid black; }
+  .footer__p {
+    font-size: 15px;
+    text-align: right;
+    margin-right: 25px;
+    margin-top: 25px; }
+  .footer__a {
+    text-decoration: none;
+    color: black;
+    transition: .3s; }
+    .footer__a:hover {
+      border-bottom: 2px solid black; }
+
+hr {
+  background-color: black; }

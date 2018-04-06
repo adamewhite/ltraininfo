@@ -1,0 +1,117 @@
+.div--container {
+	display: flex;
+	flex-flow: row nowrap;
+	justify-content: space-between;
+}
+
+.section {
+
+	&__heading {
+		font-size: 40px;
+		color: tomato;
+	}
+}
+
+.menu {
+
+	&__heading {
+		font-size: 25px;
+	}
+
+	&__list {
+		display: flex;
+		flex-flow: row nowrap;
+		text-decoration: none;
+		justify-content: flex-start;
+		align-items: center;
+		// background-color: pink;
+		margin-bottom: 25px;
+		margin-left: 25px;
+
+	}
+
+	&__item {
+		// flex: 1 1 10%;
+		display: flex;
+		justify-content: center;
+		margin-right: 45px;
+	}
+
+	&__title {
+		display: inline-block;
+		font-size: 20px;
+		padding: 10px;
+		border: 1px solid black;
+		box-shadow: 5px 5px 5px black;
+		cursor: pointer;
+		transition: background-color .3s, color .3s, transform .1s, box-shadow .1s;
+		// background-color: pink;
+
+		&:hover,
+		.active {
+			background-color: tomato;
+			color: white;
+		}
+
+		&:focus,
+		&:active {
+			transform: translate(2px, 2px);
+			box-shadow: 3px 3px 3px black;
+		}
+	}
+}
+
+.links {
+
+	&__list {
+		display: flex;
+		flex-flow: column nowrap;
+		justify-content: space-around;
+		margin: 0 auto;
+		width: 100%;
+		// background-color:pink;
+	}
+
+	&__item {
+		display: flex;
+		flex-flow: column nowrap;
+		justify-content: space-around;
+		align-items: flex-start;
+		padding: 10px;
+		// background-color: teal;
+
+
+		&--date {
+			font-size: 20px;
+			margin-bottom: 10px;
+			color: tomato;
+		}
+
+		&--link {
+			text-decoration: none;
+			font-size: 25px;
+			color: black;
+			margin-bottom: 10px;
+			// background-color: teal;
+		}
+
+		&--title {
+			border-bottom: 2px solid #F5D730;
+			padding-bottom: 2px;
+			line-height: 35px;
+			transition: all .5s;
+			display: inline;
+
+			&:hover {
+				border-bottom: 2px solid black;
+			}
+		}
+		
+		&--author,
+		&--source {
+			font-size: 15px;
+			margin-bottom: 1px;
+		}
+	}
+}
+

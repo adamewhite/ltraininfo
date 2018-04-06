@@ -1,0 +1,84 @@
+.nav {
+	display: flex;
+	justify-content: center;
+	width: calc(100% - 40px);
+	height: 100px;
+
+	&__list {
+		align-items: center;
+		display: flex;
+		flex: 1;
+		flex-flow: row nowrap;
+		height: 80px;
+		justify-content: space-around;
+		margin-top: 10px;
+		margin-bottom: 10px;
+		padding: 0;
+	}
+
+	&__list--logo {
+		align-items: center;
+		appearance: none;
+		display: flex;
+		flex: 1;
+		// font-size: 50px;
+		justify-content: center;
+		text-decoration: none;
+	}
+
+	&__item {
+		padding: 0; 
+		// background-color: pink;
+		// border: 1px dotted red;
+		align-self: center;
+
+		&--logo {
+			margin: 0;
+			padding: 0;
+			// background-color: pink;
+		}
+
+		&--margin-left-auto {
+			margin-left: auto;
+		}
+
+		&--margin-right-auto {
+			margin-right: auto;
+		}
+	}
+
+	&__link {
+		text-decoration: none;
+		appearance: none;
+		color: black;
+		border-bottom: 2px solid #F5D730;
+		font-size: 18px;
+		margin: 0 15px;
+		transition: all 1s;
+		padding: 0;
+
+		&--logo {
+			font-family: 'FolioLightItalic';
+			font-size: 50px;
+		}
+
+		&:hover {
+			border-bottom: 2px solid black;
+		}
+
+		&.active {
+			border-bottom: 2px solid black;
+		}
+
+		&__title {
+			color: black;
+			border-bottom: 3px solid #F5D730;
+			padding-bottom: 3px;
+			transition: all .5s;
+
+			&:hover {
+				border-bottom: 3px solid black;
+			}
+		}
+	}
+}
