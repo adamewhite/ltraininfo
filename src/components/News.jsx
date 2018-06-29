@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import dateformat from 'dateformat';
 import '../stylesheets/News.css';
 import news from '../news.json';
 
@@ -44,7 +45,7 @@ class News extends Component {
 
     narrowedNews.map((item, index) => {
       links.push(<li className="links__item" key={index}>
-                  <h2 className="links__item--date">{item.date}</h2>
+                  <h2 className="links__item--date">{dateformat(item.date, 'mmmm dS, yyyy')}</h2>
                   <a className="links__item--link" href={item.url} alt={item.title} target="_blank"> 
                   	<p className="links__item--title">{item.title}</p>
                   </a>
@@ -62,19 +63,47 @@ class News extends Component {
 	    	<h1 className="section__heading">The latest news</h1>
 	    	<ul className="menu__list">
 	    		<li className="menu__item">
-	    			<h2 className="menu__heading">Filter</h2>
+	    			<h2 className="menu__heading">News type</h2>
 	    		</li>	    		
 	    		<li className="menu__item" onClick={() => this.changeNews('all')}>
-	    			<p className="menu__title">All the news</p>
+	    			<p className="menu__title">All</p>
 	    		</li>	    		
 	    		<li className="menu__item" onClick={() => this.changeNews('goodnews')}>
-	    			<p className="menu__title">The good news</p>
+	    			<p className="menu__title">Good</p>
 	    		</li>
 	    		<li className="menu__item" onClick={() => this.changeNews('badnews')}>
-	    			<p className="menu__title">The bad news</p>
+	    			<p className="menu__title">Bad</p>
 	    		</li>
 	    		<li className="menu__item" onClick={() => this.changeNews('mehnews')}>
-	    			<p className="menu__title">The meh news</p>
+	    			<p className="menu__title">Meh</p>
+	    		</li>
+	    	</ul>	    	
+	    	<ul className="menu__list">
+	    		<li className="menu__item">
+	    			<h2 className="menu__heading">Area</h2>
+	    		</li>	    		
+	    		<li className="menu__item" onClick={() => this.changeNews('bedford')}>
+	    			<p className="menu__title">Brooklyn</p>
+	    		</li>	    		
+	    		<li className="menu__item" onClick={() => this.changeNews('fourteenth')}>
+	    			<p className="menu__title">Manhattan</p>
+	    		</li>
+	    		<li className="menu__item" onClick={() => this.changeNews('queens')}>
+	    			<p className="menu__title">Queens</p>
+	    		</li>
+	    	</ul>	    	
+	    	<ul className="menu__list">
+	    		<li className="menu__item">
+	    			<h2 className="menu__heading">Transport type</h2>
+	    		</li>	    		
+	    		<li className="menu__item" onClick={() => this.changeNews('buses')}>
+	    			<p className="menu__title">Buses</p>
+	    		</li>	    		
+	    		<li className="menu__item" onClick={() => this.changeNews('biking')}>
+	    			<p className="menu__title">Biking</p>
+	    		</li>
+	    		<li className="menu__item" onClick={() => this.changeNews('accessibility')}>
+	    			<p className="menu__title">Accessibility</p>
 	    		</li>
 	    	</ul>
 	    	<ul className="menu__list">

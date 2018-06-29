@@ -80,6 +80,8 @@ class App extends Component {
                    component={() => <GettingAround />}
                  />
 
+                 <Redirect to={{pathname: '/'}} />
+
                 </Switch>
 
                <Footer />

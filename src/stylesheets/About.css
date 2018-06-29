@@ -33,15 +33,17 @@
 
 .jump__list {
   display: flex;
-  flex-flow: row nowrap;
+  flex-flow: row wrap;
   text-decoration: none;
   justify-content: space-between;
+  align-items: flex-start;
   margin-bottom: 25px; }
 
 .jump__item {
   flex: 1 1 10%;
   display: flex;
-  justify-content: center; }
+  justify-content: center;
+  margin: 10px; }
 
 .jump__title {
   display: inline-block;
@@ -60,9 +62,29 @@
 .image__container {
   display: flex;
   flex-flow: row nowrap;
-  justify-content: space-around; }
+  justify-content: space-around;
+  margin: 45px 0; }
 
 .image--14th, .image--brooklyn {
   width: 35%;
   display: block;
   height: 40%; }
+
+@media (max-width: 650px) {
+  .section__image {
+    width: 90%; }
+  .image__container {
+    flex-flow: column nowrap;
+    align-items: center;
+    margin-bottom: 10px; }
+  .image--14th, .image--brooklyn {
+    width: 75%;
+    margin-bottom: 20px; } }
+
+@media (max-width: 450px) {
+  .section__heading {
+    font-size: 33px !important; }
+  .section__subheading {
+    font-size: 28px; }
+  .section__p {
+    font-size: 22px; } }

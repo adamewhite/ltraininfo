@@ -74,22 +74,6 @@
 									"keywords" : ["badnews"]
 								},
 								{ 
-									"source" : "Vice",
-									"title" : "The L Train Shutdown Is Bad News for Queens, Too",
-									"author" : "John Surico",
-									"url" : "https://www.vice.com/en_us/article/9kzpxp/the-l-train-shutdown-is-bad-news-for-queens-too",
-									"date" : "3-13-2018",
-									"keywords" : ["badnews"]
-								},
-								{ 
-									"source" : "Village Voice",
-									"title" : "Are There Better L Train Shutdown Solutions? City Didn’t Study Them",
-									"author" : "Aaron Gordon",
-									"url" : "https://www.villagevoice.com/2018/02/27/city-didnt-study-more-radical-l-train-shutdown-solutions/",
-									"date" : "2-27-2018",
-									"keywords" : ["badnews"]
-								},
-								{ 
 									"source" : "Curbed New York",
 									"title" : "Village Residents Threaten Lawsuit Over L Train Shutdown Plan",
 									"author" : "Hannah Frishberg",
@@ -135,6 +119,374 @@
 									"author" : "Cecilia Butini",
 									"url" : "http://nycitylens.com/2018/03/first-mta-twitter-town-hall/",
 									"date" : "3-30-2018",
+									"keywords" : ["badnews"]
+								},
+								{ 
+									"source" : "New York Times",
+									"title" : "How 2 M.T.A. Decisions Pushed the Subway Into Crisis",
+									"author" : "Adam Pearce",
+									"url" : "https://www.nytimes.com/interactive/2018/05/09/nyregion/subway-crisis-mta-decisions-signals-rules.html",
+									"date" : "5-9-2018",
+									"keywords" : ["badnews"]
+								},
+								{ 
+									"source" : "Gothamist",
+									"title" : "Manhattan Residents Rage Against Bike Lanes & Buses At L Train Shutdown Town Hall",
+									"author" : "Jake Offenhartz",
+									"url" : "http://gothamist.com/2018/05/10/mta_l_train_town_hall.php?sf88378007=1",
+									"date" : "5-10-2018",
+									"keywords" : ["badnews"]
+								},
+								{ 
+									"source" : "",
+									"title" : "People Want Accessible Transit, Clear Communications and More Busses – Town Hall with MTA President Andy Byford",
+									"author" : "Liena Zagare",
+									"url" : "https://bklyner.com/people-want-accessible-transit-clear-communications-and-more-busses-town-hall-with-mta-president-andy-byford/",
+									"date" : "5-30-2018",
+									"keywords" : ["mehnews"]
+								},
+								{ 
+									"source" : "City & State New York",
+									"title" : "The MTA’s Flashy New Plan Won’t Solve the Delays",
+									"author" : "Jonathan English",
+									"url" : "https://www.cityandstateny.com/articles/opinion/commentary/jonathan-english-mta-plan-andy-byford-subway-delays.html",
+									"date" : "5-30-2018",
+									"keywords" : ["badnews"]
+								},
+								{ 
+									"source" : "The Villager",
+									"title" : "Attorney: L Train Elevators Issue Could Be Settled Soon",
+									"author" : "Lincoln Anderson",
+									"url" : "http://thevillager.com/2018/05/31/attorney-l-train-elevators-issue-could-be-settled-soon/",
+									"date" : "5-31-2018",
+									"keywords" : ["goodnews"]
+								},
+								{ 
+									"source" : "NY1",
+									"title" : "Looming L Train Shut Down Inspires Documentary",
+									"author" : "Jose Martinez",
+									"url" : "http://www.ny1.com/nyc/all-boroughs/news/2018/06/01/looming-l-train-shut-down-inspires-documentary-",
+									"date" : "5-31-2018",
+									"keywords" : ["goodnews"]
+								},
+								{ 
+									"source" : "Curbed New York",
+									"title" : "NYC’s New Transit Chief Has a Plan to Fix the Subway—Can it Succeed?",
+									"author" : "Alan Levy",
+									"url" : "https://ny.curbed.com/2018/6/4/17423376/nyc-subway-andy-byford-fast-forward-analysis",
+									"date" : "6-4-2018",
+									"keywords" : ["goodnews", "badnews"]
+								},
+								{ 
+									"source" : "New York Post",
+									"title" : "Subway Hell Is Turning Violent for MTA Workers",
+									"author" : "Danielle Furfaro",
+									"url" : "https://nypost.com/2018/06/04/fed-up-commuters-assaulting-mta-workers-more-than-ever/",
+									"date" : "6-4-2018",
+									"keywords" : ["badnews"]
+								},
+								{ 
+									"source" : "Gothamist",
+									"title" : "Brooklyn Community Advocates Fear L Train Shutdown Will Hit Poor NYers Hardest: 'No One Is Stepping Up'",
+									"author" : "Jake Offenhartz",
+									"url" : "http://gothamist.com/2018/06/06/l_train_brooklyn_rally.php",
+									"date" : "6-6-2018",
+									"keywords" : ["badnews"]
+								},
+								{ 
+									"source" : "Chelsea Now",
+									"title" : "Attorney: ‘L’-Evator Matter Has Been Settled",
+									"author" : "Scott Stiffler",
+									"url" : "http://chelseanow.com/2018/06/attorney-l-evator-matter-has-been-settled/",
+									"date" : "6-6-2018",
+									"keywords" : ["goodnews"]
+								},
+								{ 
+									"source" : "Qns",
+									"title" : "Advocacy Groups Rally on Ridgewood/Bushwick Border to Demand Better L Train Shutdown Solutions",
+									"author" : "Ryan Kelley",
+									"url" : "https://qns.com/story/2018/06/08/advocacy-groups-rally-ridgewoodbushwick-border-demand-better-l-train-shutdown-solutions/",
+									"date" : "6-8-2018",
+									"keywords" : ["goodnews"]
+								},
+								{ 
+									"source" : "Times Ledger",
+									"title" : "Queens Group Voices Concerns amid Canarsie Tunnel Closure Plans",
+									"author" : "Mark Hallum",
+									"url" : "https://www.timesledger.com/stories/2018/16/mtaopenhouse_2018_04_20_q.html",
+									"date" : "4-20-2018",
+									"keywords" : ["badnews", "queens"]
+								},
+								{ 
+									"source" : "Metro New York",
+									"title" : "Straphangers, Transit Activists Call for 24/7 Bus Service During L Train Shutdown",
+									"author" : "Kristin Toussaint",
+									"url" : "https://www.metro.us/news/local-news/new-york/transit-activists-bus-service-during-l-train-shutdown",
+									"date" : "4-24-2018",
+									"keywords" : ["goodnews", "carpocalypse"]
+								},
+								{ 
+									"source" : "AM New York",
+									"title" : "L Train Shutdown Must Include 24-Hour 14th Street Busway, Transit Advocates Say",
+									"author" : "Vincent Barone",
+									"url" : "https://www.amny.com/transit/l-train-shutdown-busway-1.18242762",
+									"date" : "4-25-2018",
+									"keywords" : ["goodnews", "fourteenth"]
+								},
+								{ 
+									"source" : "The Lo-Down",
+									"title" : "Transit Groups Urge 24-Hour Restrictions on Williamsburg Bridge During L-Train Shutdown",
+									"author" : "Ed Litvak",
+									"url" : "http://www.thelodownny.com/leslog/2018/04/transit-groups-urge-24-hour-restrictions-on-williamsburg-bridge-during-l-train-shutdown.html",
+									"date" : "4-26-2018",
+									"keywords" : ["goodnews", "buses"]
+								},
+								{ 
+									"source" : "Gothamist",
+									"title" : "Everything We Know & Fear About The Impending L Train Shutdown",
+									"author" : "Jake Offenhartz",
+									"url" : "http://gothamist.com/2018/04/26/lpocalypse_when_l_train_shutdown.php",
+									"date" : "4-26-2018",
+									"keywords" : ["goodnews"]
+								},
+								{ 
+									"source" : "Metro New York",
+									"title" : "MTA Board Approves Extra Funding for Subway Station accessibility",
+									"author" : "Nikki M. Mascali",
+									"url" : "https://www.metro.us/news/local-news/new-york/mta-adds-extra-funding-ada-accessibility",
+									"date" : "4-26-2018",
+									"keywords" : ["goodnews", "accessibility"]
+								},
+								{ 
+									"source" : "Village Voice",
+									"title" : "How Screwed Will Your Subway Line Be by the L Train Shutdown? A/C Edition",
+									"author" : "Aaron Gordon",
+									"url" : "https://www.villagevoice.com/2018/04/26/how-screwed-will-your-subway-line-be-by-the-l-train-shutdown-a-c-edition/",
+									"date" : "4-26-2018",
+									"keywords" : ["badnews"]
+								},
+								{ 
+									"source" : "The Villager",
+									"title" : "24/7 or Bust! Transit Advocates Say Make 14th St. All-Day Busway",
+									"author" : "Sydney Pereira",
+									"url" : "http://thevillager.com/2018/04/26/24-7-or-bust-transit-advocates-say-make-14th-all-day-busway/",
+									"date" : "4-26-2018",
+									"keywords" : ["goodnews", "fourteenth", "buses"]
+								},
+								{ 
+									"source" : "AM New York",
+									"title" : "M Train Service Finally Returns to Bushwick after Eight Months of Work",
+									"author" : "Vincent Barone",
+									"url" : "https://www.amny.com/transit/m-train-bushwick-subway-1.18317117",
+									"date" : "4-30-2018",
+									"keywords" : ["goodnews"]
+								},
+								{ 
+									"source" : "ABC7NY",
+									"title" : "Entire M Line Resumes Service after Amazing Renovation",
+									"author" : "Derick Waller",
+									"url" : "http://abc7ny.com/traffic/entire-m-line-resumes-service-after-amazing-renovation/3408360/",
+									"date" : "4-30-2018",
+									"keywords" : ["goodnews"]
+								},
+								{ 
+									"source" : "The Lo-Down",
+									"title" : "L Train Apocalypse: Dedicated Bus & Bike Lanes Coming to Delancey Street",
+									"author" : "Ed Litvak",
+									"url" : "http://www.thelodownny.com/leslog/2018/05/l-train-apocalypse-dedicated-bus-bike-lanes-coming-to-delancey-street.html",
+									"date" : "5-2-2018",
+									"keywords" : ["goodnews"]
+								},
+								{ 
+									"source" : "AM New York",
+									"title" : "L Train Shutdown Plan for 'Peak Hour' Bus Priority Supported by de Blasio",
+									"author" : "Vincent Barone",
+									"url" : "https://www.amny.com/transit/l-train-shutdown-14th-street-1.18378013",
+									"date" : "5-3-2018",
+									"keywords" : ["goodnews", "buses"]
+								},
+								{ 
+									"source" : "Brooklyn Daily Eagle",
+									"title" : "De Blasio Dashes Transit Advocates' Hopes on L-Train Shutdown",
+									"author" : "Gersh Kuntzman",
+									"url" : "http://www.brooklyneagle.com/articles/2018/5/4/de-blasio-dashes-transit-advocates-hopes-l-train-shutdown",
+									"date" : "5-4-2018",
+									"keywords" : ["badnews", "buses"]
+								},
+								{ 
+									"source" : "Brooklyn Daily Eagle",
+									"title" : "L Train Coalition Prepares to Confront Agencies on Behalf of North Brooklyn",
+									"author" : "Andy Katz",
+									"url" : "http://www.brooklyneagle.com/articles/2018/2/2/l-train-coalition-prepares-confront-agencies-behalf-north-brooklyn",
+									"date" : "2-2-2018",
+									"keywords" : ["goodnews"]
+								},
+								{ 
+									"source" : "New York Times",
+									"title" : "How Can the M.T.A. Rescue the Subway When It Struggles to Deliver Basics?",
+									"author" : "Emma G. Fitzsimmons",
+									"url" : "https://www.nytimes.com/2018/05/07/nyregion/mta-subway-nyc.html",
+									"date" : "5-7-2018",
+									"keywords" : ["badnews"]
+								},
+								{ 
+									"source" : "The Villager",
+									"title" : "Feds Get Signals Crossed on L Subway Shutdown Plan",
+									"author" : "Lincoln Anderson",
+									"url" : "http://thevillager.com/2018/05/07/feds-get-signals-crossed-on-l-subway-shutdown-plan/",
+									"date" : "5-7-2018",
+									"keywords" : ["badnews"]
+								},
+								{ 
+									"source" : "AM New York",
+									"title" : "Think Bigger to Ease L Train Disruptions",
+									"author" : "The Editorial Board",
+									"url" : "https://www.amny.com/opinion/editorial/l-train-1.18441244",
+									"date" : "5-7-2018",
+									"keywords" : ["goodnews"]
+								},
+								{ 
+									"source" : "AM New York",
+									"title" : "L Train Shutdown Plans Need to Accommodate Wheelchair Access: Borough Presidents",
+									"author" : "Vincent Barone",
+									"url" : "https://www.amny.com/transit/l-train-shutdown-accessibility-1.18440015",
+									"date" : "5-7-2018",
+									"keywords" : ["goodnews", "accessibility"]
+								},
+								{ 
+									"source" : "Curbed New York",
+									"title" : "L Train Shutdown Isn’t Doing Enough for Riders with Disabilities, Elected Officials Say",
+									"author" : "Tanay Warerkar",
+									"url" : "https://ny.curbed.com/2018/5/8/17331890/l-train-ada-accessibility-wheelchair-elevator",
+									"date" : "5-8-2018",
+									"keywords" : ["badnews", "accessibility"]
+								},
+								{ 
+									"source" : "New York Daily News",
+									"title" : "Crowd Boos Transportation Chief at Packed L Train Shutdown Hearing",
+									"author" : "Dan Rivoli",
+									"url" : "http://www.nydailynews.com/new-york/crowd-boos-transportation-chief-train-shutdown-heariing-article-1.3981533",
+									"date" : "5-10-2018",
+									"keywords" : ["badnews"]
+								},
+								{ 
+									"source" : "Bedford + Bowery",
+									"title" : "Villagers Go to Town On MTA Officials Over L-Pocalypse Plan",
+									"author" : "Dave Colon",
+									"url" : "http://bedfordandbowery.com/2018/05/villagers-go-to-town-on-mta-officials-over-l-pocalypse-plan/",
+									"date" : "5-10-2018",
+									"keywords" : ["badnews"]
+								},
+								{ 
+									"source" : "StreetsBlog NYC",
+									"title" : "The L Train Shutdown Isn’t Up for Debate",
+									"author" : "David Meyer",
+									"url" : "https://nyc.streetsblog.org/2018/05/10/the-l-train-shutdown-isnt-up-for-debate/",
+									"date" : "5-10-2018",
+									"keywords" : ["badnews"]
+								},
+								{ 
+									"source" : "New York Daily News",
+									"title" : "L Train Shutdown Plan Should Start Long Before Subway Repairs Begin, Lawmakers Say",
+									"author" : "Dan Rivoli",
+									"url" : "http://www.nydailynews.com/new-york/lawmakers-train-shutdown-plan-start-early-article-1.3983500",
+									"date" : "5-10-2018",
+									"keywords" : ["goodnews"]
+								},
+								{ 
+									"source" : "Curbed New York",
+									"title" : "The L Train Shutdown Is a Year Away — What Effect Will It Have on Rent Prices?",
+									"author" : "Rebecca Fishbein",
+									"url" : "https://ny.curbed.com/2018/5/15/17353760/mta-l-train-shutdown-new-york-rent-predictions",
+									"date" : "5-15-2018",
+									"keywords" : ["goodnews", "realestate"]
+								},
+								{ 
+									"source" : "New York Daily News",
+									"title" : "MTA's 24-Hour Bus Plan During L Train Shutdown Draws Support at Town Hall Meeting",
+									"author" : "Dan Rivoli",
+									"url" : "http://www.nydailynews.com/new-york/manhattan/mta-bus-plan-train-shutdown-support-town-hall-article-1.3994207",
+									"date" : "5-16-2018",
+									"keywords" : ["goodnews", "buses"]
+								},
+								{ 
+									"source" : "Bushwick Daily",
+									"title" : "I'm Still Riding a Bike, and L and M Train Riders Should be Too",
+									"author" : "Andrew Tobia",
+									"url" : "https://bushwickdaily.com/bushwick/categories/arts-and-culture/5410-bushwick-bike-commute-m-train-l-train-shutdown",
+									"date" : "5-16-2018",
+									"keywords" : ["goodnews", "biking"]
+								},
+								{ 
+									"source" : "Bedford + Bowery",
+									"title" : "Meet the New Yorkers Who Might Actually Benefit From the L-pocalypse",
+									"author" : "James Fox",
+									"url" : "http://bedfordandbowery.com/2018/05/meet-the-new-yorkers-who-might-actually-benefit-from-the-l-pocalypse/",
+									"date" : "5-18-2018",
+									"keywords" : ["goodnews"]
+								},
+								{ 
+									"source" : "Vice",
+									"title" : "New York's Subway Is Hell for Riders with Disabilities",
+									"author" : "John Surico",
+									"url" : "https://www.vice.com/en_us/article/59qggn/new-yorks-subway-is-hell-for-riders-with-disabilities",
+									"date" : "5-18-2018",
+									"keywords" : ["badnews", "accessibility"]
+								},
+								{ 
+									"source" : "AM New York",
+									"title" : "L Train Shutdown Plan Needs 24-Hour 14th Street Busway, Politicians Say",
+									"author" : "Nicole Brown",
+									"url" : "https://www.amny.com/transit/l-train-shutdown-alternatives-1.18657197",
+									"date" : "5-21-2018",
+									"keywords" : ["goodnews", "buses"]
+								},
+								{ 
+									"source" : "Architect's Newspaper",
+									"title" : "It Looks Like the MTA System Can't Handle the L Train Shutdown",
+									"author" : "Drew Zeiba",
+									"url" : "https://archpaper.com/2018/05/2019-l-train-shutdown/",
+									"date" : "5-22-2018",
+									"keywords" : ["badnews"]
+								},
+								{ 
+									"source" : "The Villager",
+									"title" : "Pols Decry ‘L’-ack of Handicap Access in Subway Shutdown",
+									"author" : "Lesley Sussman",
+									"url" : "http://thevillager.com/2018/05/24/pols-decry-l-ack-of-handicap-access-in-subway-shutdown/",
+									"date" : "5-24-2018",
+									"keywords" : ["badnews", "accessibility"]
+								},
+								{ 
+									"source" : "New York Post",
+									"title" : "A New Bike-Sharing Company Is Eyeing an NYC Jump",
+									"author" : "Nicolas Vega",
+									"url" : "https://nypost.com/2018/05/28/a-new-bike-sharing-company-is-eyeing-an-nyc-jump/",
+									"date" : "5-28-2018",
+									"keywords" : ["goodnews", "biking"]
+								},
+								{ 
+									"source" : "Curbed New York",
+									"title" : "Council Speaker to Propose New Information Booths to Aid in L Train Shutdown",
+									"author" : "Ameena Walker",
+									"url" : "https://ny.curbed.com/2018/6/18/17474754/l-train-shutdown-nyc-new-legislation-corey-johnson",
+									"date" : "6-18-2018",
+									"keywords" : ["goodnews"]
+								},
+								{ 
+									"source" : "Bklyner",
+									"title" : "Assemblymember Lentol Passes L Train Mitigation Bill, Calls for Plan from MTA",
+									"author" : "Paul Stremple",
+									"url" : "https://bklyner.com/assemblymember-lentol-passes-l-train-mitigation-bill-calls-for-plan-from-mta/",
+									"date" : "6-19-2018",
+									"keywords" : ["goodnews"]
+								},
+								{ 
+									"source" : "Gothamist",
+									"title" : "'Maximum Bullsh*t' On J/M This Morning Portends L Train Shutdown Hell",
+									"author" : "John Del Signore",
+									"url" : "http://gothamist.com/2018/06/19/j_m_l_train_subway_foreboding.php",
+									"date" : "6-19-2018",
 									"keywords" : ["badnews"]
 								}
 				]

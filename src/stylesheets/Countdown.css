@@ -1,7 +1,7 @@
 div#countdown h1 {
   font-size: 40px;
   margin-bottom: 18px;
-  margin-top: 30px; }
+  margin-top: 0px; }
 
 div#countdown ul {
   list-style-type: none;
@@ -19,3 +19,38 @@ div#countdown ul {
       margin-top: 15px; }
     div#countdown ul li h3 {
       font-size: 35px; }
+
+@media (max-width: 920px) {
+  div#countdown h1 {
+    font-size: 35px;
+    margin-bottom: 10px; }
+  div#countdown ul li {
+    padding: 0 10px; }
+    div#countdown ul li h2 {
+      font-size: 45px; }
+    div#countdown ul li h3 {
+      font-size: 30px; } }
+
+@media (max-width: 750px) {
+  div#countdown h1 {
+    font-size: 30px;
+    margin-bottom: 10px; }
+  div#countdown ul li {
+    padding: 0 10px; }
+    div#countdown ul li h2 {
+      font-size: 40px; }
+    div#countdown ul li h3 {
+      font-size: 25px; } }
+
+@media (max-width: 600px) {
+  div#countdown h1 {
+    font-size: 30px;
+    margin-bottom: 10px; }
+  div#countdown ul {
+    flex-flow: row wrap; }
+    div#countdown ul li {
+      padding: 0 10px; }
+      div#countdown ul li h2 {
+        font-size: 40px; }
+      div#countdown ul li h3 {
+        font-size: 25px; } }

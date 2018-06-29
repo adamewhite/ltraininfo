@@ -54,6 +54,7 @@ class EmailSignup extends Component {
     const isInvalid = email === '';
 
     return (
+    	<div id="emailContainer">
         <form onSubmit={this.handleSubmit}>
           <ul>
             <li>
@@ -79,6 +80,7 @@ class EmailSignup extends Component {
             </li>
           </ul>
         </form>
+       </div>
     );
   }
 }

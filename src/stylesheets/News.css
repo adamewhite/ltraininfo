@@ -20,17 +20,19 @@
   margin-left: 25px; }
 
 .menu__item {
+  flex: 1 1 10%;
   display: flex;
-  justify-content: center;
-  margin-right: 45px; }
+  justify-content: flex-start;
+  margin-right: 10px; }
 
 .menu__title {
   display: inline-block;
   font-size: 20px;
-  padding: 10px;
+  padding: 10px 4vw;
   border: 1px solid black;
   box-shadow: 5px 5px 5px black;
   cursor: pointer;
+  white-space: nowrap;
   transition: background-color .3s, color .3s, transform .1s, box-shadow .1s; }
   .menu__title:hover,
   .menu__title .active {
@@ -73,3 +75,32 @@
   .links__item--author, .links__item--source {
     font-size: 15px;
     margin-bottom: 1px; }
+
+@media (max-width: 750px) {
+  .section__heading {
+    font-size: 33px; }
+  .menu__heading {
+    font-size: 22px;
+    order: 1;
+    flex: 1 1 100%; }
+  .menu__list {
+    flex-flow: row wrap;
+    margin-left: 10px; }
+  .menu__item {
+    flex: 1 1 17%;
+    justify-content: flex-start;
+    order: 2;
+    margin-bottom: 12px; }
+  .menu__title {
+    font-size: 18px;
+    padding: 6px; }
+  .links__item--date {
+    font-size: 18px; }
+  .links__item--link {
+    font-size: 21px;
+    margin-bottom: 8px; }
+  .links__item--title {
+    line-height: 24px; }
+  .links__item--author, .links__item--source {
+    font-size: 17px;
+    margin-bottom: 2px; } }

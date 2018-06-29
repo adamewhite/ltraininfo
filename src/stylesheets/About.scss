@@ -54,18 +54,20 @@
 
 	&__list {
 		display: flex;
-		flex-flow: row nowrap;
+		flex-flow: row wrap;
 		text-decoration: none;
 		justify-content: space-between;
-		// align-items: flex-start;
+		align-items: flex-start;
 		margin-bottom: 25px;
-
+		// background-color: teal;
 	}
 
 	&__item {
 		flex: 1 1 10%;
 		display: flex;
 		justify-content: center;
+		// align-self: flex-;
+		margin: 10px;
 	}
 
 	&__title {
@@ -96,6 +98,7 @@
 		display: flex;
 		flex-flow: row nowrap;
 		justify-content: space-around;
+		margin: 45px 0;
 	}
 
 	&--14th,
@@ -105,6 +108,235 @@
 		height: 40%;
 		// margin: 30px auto;
 		// border: 2px solid black;
+	}
+}
+
+@media (max-width: 650px) {
+	.section {
+		// width: 80%;
+		// margin: 0 auto;
+
+		&__heading {
+			// font-size: 35px;
+			// // margin-top: 25px;
+			// margin-bottom: 20px;
+			// color: teal;
+
+			&--no-margin-top {
+				// margin-top: 10px;
+			}
+		}
+
+		&__subheading {
+			// font-family: 'FolioLightItalic';
+			// font-size: 30px;
+			// // margin: 100px 0 12px;
+			// margin-top: 25px;
+			// display: inline;
+			// margin-left: 25px;
+			// border-bottom: 2px solid black;
+		}
+
+		&__p {
+			// font-size: 25px;
+			// line-height: 32px;
+			// margin: 15px 0;
+		}
+
+		&__image {
+			width: 90%;
+			// display: block;
+			// margin: 30px auto;
+			// border: 2px solid black;
+		}
+
+		&__a {
+			// text-decoration: none;
+			// color: black;
+			// border-bottom: 2px solid black;
+			// transition: .3s;
+			// cursor: pointer;
+
+			&:hover {
+				// color: tomato;
+				// border-bottom: 2px solid tomato;
+			}
+		}
+	}
+
+	.jump {
+
+		&__list {
+			// display: flex;
+			// flex-flow: row nowrap;
+			// text-decoration: none;
+			// justify-content: space-between;
+			// // align-items: flex-start;
+			// margin-bottom: 25px;
+
+		}
+
+		&__item {
+			// flex: 1 1 10%;
+			// display: flex;
+			// justify-content: center;
+		}
+
+		&__title {
+			// display: inline-block;
+			// font-size: 20px;
+			// padding: 10px;
+			// border: 1px solid black;
+			// box-shadow: 5px 5px 5px black;
+			// cursor: pointer;
+			// background-color: pink;
+
+			&:hover {
+				// background-color: tomato;
+				// color: white;
+			}
+
+			&:focus,
+			&:active {
+				// transform: translate(2px, 2px);
+				// box-shadow: 3px 3px 3px black;
+			}
+		}
+	}
+
+	.image {
+
+		&__container {
+			// display: flex;
+			flex-flow: column nowrap;
+			// justify-content: center;
+			align-items: center;
+			// margin: 45px 0;
+			margin-bottom: 10px;
+		}
+
+		&--14th,
+		&--brooklyn {
+			width: 75%;
+			// display: block;
+			// height: 40%;
+			// margin: 30px auto;
+			// border: 2px solid black;
+			margin-bottom: 20px;
+		}
+	}
+}
+
+@media (max-width: 450px) {
+	.section {
+		// width: 80%;
+		// margin: 0 auto;
+
+		&__heading {
+			font-size: 33px !important;
+			// // margin-top: 25px;
+			// margin-bottom: 20px;
+			// color: teal !important;
+
+			&--no-margin-top {
+				// margin-top: 10px;
+			}
+		}
+
+		&__subheading {
+			// font-family: 'FolioLightItalic';
+			font-size: 28px;
+			// // margin: 100px 0 12px;
+			// margin-top: 25px;
+			// display: inline;
+			// margin-left: 25px;
+			// border-bottom: 2px solid black;
+		}
+
+		&__p {
+			font-size: 22px;
+			// line-height: 32px;
+			// margin: 15px 0;
+		}
+
+		&__image {
+			// width: 75%;
+			// display: block;
+			// margin: 30px auto;
+			// border: 2px solid black;
+		}
+
+		&__a {
+			// text-decoration: none;
+			// color: black;
+			// border-bottom: 2px solid black;
+			// transition: .3s;
+			// cursor: pointer;
+
+			&:hover {
+				// color: tomato;
+				// border-bottom: 2px solid tomato;
+			}
+		}
+	}
+
+	.jump {
+
+		&__list {
+			// display: flex;
+			// flex-flow: row nowrap;
+			// text-decoration: none;
+			// justify-content: space-between;
+			// // align-items: flex-start;
+			// margin-bottom: 25px;
+
+		}
+
+		&__item {
+			// flex: 1 1 10%;
+			// display: flex;
+			// justify-content: center;
+		}
+
+		&__title {
+			// display: inline-block;
+			// font-size: 20px;
+			// padding: 10px;
+			// border: 1px solid black;
+			// box-shadow: 5px 5px 5px black;
+			// cursor: pointer;
+			// background-color: pink;
+
+			&:hover {
+				// background-color: tomato;
+				// color: white;
+			}
+
+			&:focus,
+			&:active {
+				// transform: translate(2px, 2px);
+				// box-shadow: 3px 3px 3px black;
+			}
+		}
+	}
+
+	.image {
+
+		&__container {
+			// display: flex;
+			// flex-flow: row nowrap;
+			// justify-content: space-around;
+			// margin: 45px 0;
+		}
+
+		&--14th,
+		&--brooklyn {
+			// width: 35%;
+			// display: block;
+			// height: 40%;
+			// margin: 30px auto;
+			// border: 2px solid black;
+		}
 	}
 }
 

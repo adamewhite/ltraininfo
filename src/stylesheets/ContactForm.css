@@ -97,6 +97,7 @@ div#contactContainer {
           font-weight: 200;
           letter-spacing: .1rem;
           padding: 2vh 2vw;
+          box-shadow: 5px 5px 5px black;
           transition: background-color .5s, color .5s; }
           div#contactContainer form ul li button[type="submit"]:hover {
             background-color: white;

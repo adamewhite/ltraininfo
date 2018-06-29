@@ -2,17 +2,21 @@
   "name": "ltraininfo",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://www.adamewhite.com/ltrain",
   "dependencies": {
     "animated": "^0.2.2",
     "axios": "^0.18.0",
-    "body-parser": "^1.18.2",
+    "body-parser": "^1.18.3",
+    "dateformat": "^3.0.3",
     "express": "^4.16.3",
     "mongoose": "^5.0.11",
     "react": "^16.2.0",
-    "react-dom": "^16.2.0",
+    "react-dom": "^16.4.1",
+    "react-router": "^4.3.1",
     "react-router-dom": "^4.3.0-rc.1",
     "react-scripts": "1.1.1",
-    "react-transition-group": "^2.2.1"
+    "react-transition-group": "^2.2.1",
+    "watchman": "^1.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
