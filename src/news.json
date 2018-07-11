@@ -442,7 +442,7 @@
 									"keywords" : ["goodnews", "buses"]
 								},
 								{ 
-									"source" : "Architect's Newspaper",
+									"source" : "Architects Newspaper",
 									"title" : "It Looks Like the MTA System Can't Handle the L Train Shutdown",
 									"author" : "Drew Zeiba",
 									"url" : "https://archpaper.com/2018/05/2019-l-train-shutdown/",
@@ -488,6 +488,342 @@
 									"url" : "http://gothamist.com/2018/06/19/j_m_l_train_subway_foreboding.php",
 									"date" : "6-19-2018",
 									"keywords" : ["badnews"]
-								}
+								},
+								{ 
+									"source" : "The Villager",
+									"title" : "Elevators Are a Win, but L-train Shutdown Fight Still on Track",
+									"author" : "Lincoln Anderson",
+									"url" : "http://thevillager.com/2018/06/21/elevators-are-a-win-but-l-train-shutdown-fight-still-on-track/",
+									"date" : "6-21-2018",
+									"keywords" : ["goodnews", "accessibility"]
+								},								
+								{ 
+									"source" : "Chelsea Now",
+									"title" : "Elevators are a Win but L Fight Continues",
+									"author" : "Scott Stiffler",
+									"url" : "http://chelseanow.com/2018/06/elevators-are-a-win-but-l-fight-continues/",
+									"date" : "6-21-2018",
+									"keywords" : ["goodnews", "accessibility"]
+								},
+								{ 
+									"source" : "New York Daily News",
+									"title" : "Queens Subway Station Loses Moving Walkways",
+									"author" : "Dan Rivoli",
+									"url" : "http://www.nydailynews.com/new-york/ny-metro-court-square-walkways-mta-20180622-story.html",
+									"date" : "6-22-2018",
+									"keywords" : ["accessibility", "queens"]
+								},								
+								{ 
+									"source" : "New York Daily News",
+									"title" : "14th St. to Become a 'Busway' for Most of Day During L Train Shutdown",
+									"author" : "Dan Rivoli",
+									"url" : "http://www.nydailynews.com/new-york/ny-metro-l-train-shutdown-20180625-story.html",
+									"date" : "6-25-2018",
+									"keywords" : ["goodnews", "buses"]
+								},
+								{ 
+									"source" : "Brooklyn Eagle",
+									"title" : "Gothamist Publisher: Don't Move Away from Williamsburg During L-Train Shutdown",
+									"author" : "Raanan Geberer",
+									"url" : "http://www.brooklyneagle.com/articles/2018/6/25/gothamist-publisher-dont-move-away-williamsburg-during-l-train-shutdown",
+									"date" : "6-25-2018",
+									"keywords" : ["realestate"]
+								},								
+								{ 
+									"source" : "6sqft",
+									"title" : "14th Street to Become an All-Day ‘Busway,’ Get New Bike Lanes During L Train Shutdown",
+									"author" : "Michelle Cohen",
+									"url" : "https://www.6sqft.com/14th-street-to-become-an-all-day-busway-get-new-bike-lanes-during-l-train-shutdown/",
+									"date" : "6-26-2018",
+									"keywords" : ["goodnews", "buses", "biking"]
+								},
+								{ 
+									"source" : "CBS New York",
+									"title" : "DOT Offers Proposals For 2019 L Train Closure",
+									"author" : "Alex Denis & Janelle Burrell",
+									"url" : "https://newyork.cbslocal.com/2018/06/26/dot-offers-proposals-for-2019-l-train-closure/",
+									"date" : "6-27-2018",
+									"keywords" : ["buses", "biking"]
+								},								
+								{ 
+									"source" : "Gramercy Patch",
+									"title" : "MTA Spells Out L Shutdown Mitigation Plan At Council Hearing",
+									"author" : "Caroline Spivack",
+									"url" : "https://patch.com/new-york/gramercy-murray-hill/mta-spells-out-l-shutdown-mitigation-plan-council-hearing",
+									"date" : "6-28-2018",
+									"keywords" : ["buses"]
+								},
+								{ 
+									"source" : "AM New York",
+									"title" : "L Train Shutdown Mitigation Plans Outlined at City Council Committee Hearing",
+									"author" : "Lauren Cook & Rajvi Desai",
+									"url" : "https://www.amny.com/transit/l-train-shutdown-hearing-1.19455334",
+									"date" : "6-27-2018",
+									"keywords" : ["buses"]
+								},								
+								{ 
+									"source" : "NY1",
+									"title" : "Ferries, 80 Buses per Hour to Help Accommodate Commuters During L Train Shutdown",
+									"author" : "Jose Martinez",
+									"url" : "http://www.ny1.com/nyc/all-boroughs/transit/2018/06/28/transit-officials-provide-more-contingency-details-for-commuters-during-l-train-shutdown",
+									"date" : "6-27-2018",
+									"keywords" : ["buses", "ferries"]
+								},
+								{ 
+									"source" : "The Lo-Down",
+									"title" : "L Train Shutdown: More Citi Bikes, 80 Buses/Hour On Williamsburg Bridge",
+									"author" : "Ed Litvak",
+									"url" : "http://www.thelodownny.com/leslog/2018/06/l-train-shutdown-more-citi-bikes-80-buseshour-on-williamsburg-bridge.html",
+									"date" : "6-28-2018",
+									"keywords" : ["buses", "biking"]
+								},								
+								{ 
+									"source" : "Curbed New York",
+									"title" : "Citi Bike Will Expand in Manhattan and Williamsburg During L Train Shutdown",
+									"author" : "Amy Plitt",
+									"url" : "https://ny.curbed.com/2018/6/27/17509446/nyc-transportation-citi-bike-l-train-shutdown",
+									"date" : "6-27-2018",
+									"keywords" : ["biking"]
+								},
+								{ 
+									"source" : "Bedford + Bowery",
+									"title" : "The Very Latest on the City’s Plan to Deal With the L-Pocalypse",
+									"author" : "Tara Yarlagadda",
+									"url" : "http://bedfordandbowery.com/2018/06/the-very-latest-on-the-citys-plan-to-deal-with-the-l-pocalypse/",
+									"date" : "6-29-2018",
+									"keywords" : ["ferries", "buses", "biking"]
+								},								
+								{ 
+									"source" : "Vice",
+									"title" : "What's Actually Wrong with the L Train Tunnel?",
+									"author" : "John Surico",
+									"url" : "https://www.vice.com/en_us/article/yweynb/whats-actually-wrong-with-the-l-train-tunnel",
+									"date" : "6-29-2018",
+									"keywords" : [""]
+								},
+								{ 
+									"source" : "Architects Newspaper",
+									"title" : "NYC Announces Expanded Citi Bike Service and New Busway for L Train Shutdown",
+									"author" : "Selina Cheah",
+									"url" : "https://archpaper.com/2018/06/expanded-citi-bike-service-busway-planned-l-train-shutdown/",
+									"date" : "6-28-2018",
+									"keywords" : ["buses", "biking"]
+								},								
+								{ 
+									"source" : "",
+									"title" : "",
+									"author" : "",
+									"url" : "",
+									"date" : "-2018",
+									"keywords" : [""]
+								},
+								{ 
+									"source" : "",
+									"title" : "",
+									"author" : "",
+									"url" : "",
+									"date" : "-2018",
+									"keywords" : [""]
+								},								
+								{ 
+									"source" : "",
+									"title" : "",
+									"author" : "",
+									"url" : "",
+									"date" : "-2018",
+									"keywords" : [""]
+								},
+								{ 
+									"source" : "",
+									"title" : "",
+									"author" : "",
+									"url" : "",
+									"date" : "-2018",
+									"keywords" : [""]
+								},								
+								{ 
+									"source" : "",
+									"title" : "",
+									"author" : "",
+									"url" : "",
+									"date" : "-2018",
+									"keywords" : [""]
+								},
+								{ 
+									"source" : "",
+									"title" : "",
+									"author" : "",
+									"url" : "",
+									"date" : "-2018",
+									"keywords" : [""]
+								},								
+								{ 
+									"source" : "",
+									"title" : "",
+									"author" : "",
+									"url" : "",
+									"date" : "-2018",
+									"keywords" : [""]
+								},
+								{ 
+									"source" : "",
+									"title" : "",
+									"author" : "",
+									"url" : "",
+									"date" : "-2018",
+									"keywords" : [""]
+								},								
+								{ 
+									"source" : "",
+									"title" : "",
+									"author" : "",
+									"url" : "",
+									"date" : "-2018",
+									"keywords" : [""]
+								},
+								{ 
+									"source" : "",
+									"title" : "",
+									"author" : "",
+									"url" : "",
+									"date" : "-2018",
+									"keywords" : [""]
+								},								
+								{ 
+									"source" : "",
+									"title" : "",
+									"author" : "",
+									"url" : "",
+									"date" : "-2018",
+									"keywords" : [""]
+								},
+								{ 
+									"source" : "",
+									"title" : "",
+									"author" : "",
+									"url" : "",
+									"date" : "-2018",
+									"keywords" : [""]
+								},								
+								{ 
+									"source" : "",
+									"title" : "",
+									"author" : "",
+									"url" : "",
+									"date" : "-2018",
+									"keywords" : [""]
+								},
+								{ 
+									"source" : "",
+									"title" : "",
+									"author" : "",
+									"url" : "",
+									"date" : "-2018",
+									"keywords" : [""]
+								},								
+								{ 
+									"source" : "",
+									"title" : "",
+									"author" : "",
+									"url" : "",
+									"date" : "-2018",
+									"keywords" : [""]
+								},
+								{ 
+									"source" : "",
+									"title" : "",
+									"author" : "",
+									"url" : "",
+									"date" : "-2018",
+									"keywords" : [""]
+								},								
+								{ 
+									"source" : "",
+									"title" : "",
+									"author" : "",
+									"url" : "",
+									"date" : "-2018",
+									"keywords" : [""]
+								},
+								{ 
+									"source" : "",
+									"title" : "",
+									"author" : "",
+									"url" : "",
+									"date" : "-2018",
+									"keywords" : [""]
+								},								
+								{ 
+									"source" : "",
+									"title" : "",
+									"author" : "",
+									"url" : "",
+									"date" : "-2018",
+									"keywords" : [""]
+								},
+								{ 
+									"source" : "",
+									"title" : "",
+									"author" : "",
+									"url" : "",
+									"date" : "-2018",
+									"keywords" : [""]
+								},								
+								{ 
+									"source" : "",
+									"title" : "",
+									"author" : "",
+									"url" : "",
+									"date" : "-2018",
+									"keywords" : [""]
+								},
+								{ 
+									"source" : "",
+									"title" : "",
+									"author" : "",
+									"url" : "",
+									"date" : "-2018",
+									"keywords" : [""]
+								},								
+								{ 
+									"source" : "",
+									"title" : "",
+									"author" : "",
+									"url" : "",
+									"date" : "-2018",
+									"keywords" : [""]
+								},
+								{ 
+									"source" : "",
+									"title" : "",
+									"author" : "",
+									"url" : "",
+									"date" : "-2018",
+									"keywords" : [""]
+								},								
+								{ 
+									"source" : "",
+									"title" : "",
+									"author" : "",
+									"url" : "",
+									"date" : "-2018",
+									"keywords" : [""]
+								},
+								{ 
+									"source" : "",
+									"title" : "",
+									"author" : "",
+									"url" : "",
+									"date" : "-2018",
+									"keywords" : [""]
+								},								
+								{ 
+									"source" : "",
+									"title" : "",
+									"author" : "",
+									"url" : "",
+									"date" : "-2018",
+									"keywords" : [""]
+								},
 				]
 }

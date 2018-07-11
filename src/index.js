@@ -6,7 +6,7 @@ import App from './App';
 // import registerServiceWorker from './registerServiceWorker';
 
 const Main = () => (
-  <BrowserRouter basename={'/ltrain'}>
+  <BrowserRouter>
     <Route path="/" component={App} />
   </BrowserRouter>
 );
